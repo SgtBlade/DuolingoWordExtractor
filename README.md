@@ -16,7 +16,7 @@ You can copy and paste the code from [Word extractor code.js](https://github.com
 
 ### Bookmarklet
 
-    1. Copy the bookmarklet code from bookmarklet.js.
+    1. Copy the bookmarklet code from [bookmark](https://github.com/SgtBlade/DuolingoWordExtractor/blob/master/bookmark)
     2. Create a new bookmark in your browser.
     3. Paste the code into the URL field of the bookmark.
     4. Click the bookmark when you are on a webpage
